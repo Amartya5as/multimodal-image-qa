@@ -1,4 +1,5 @@
-streamlit
+streamlit==1.32.0
 torch==2.0.1
-transformers
+transformers==4.36.2
 pillow
+sentencepiece
